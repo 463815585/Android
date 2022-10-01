@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test_2</string>
+    <string name="test_2_open">Open....</string>
+    <string name="test_2_open_shortcut">Ctrl-O</string>
+    <string name="test_2_save">Save....</string>
+    <string name="test_2_save_shortcut">Ctrl-S</string>
+    <string name="test_2_saveAs">Save As....</string>
+    <string name="test_2_saveAs_shortcut">Ctrl-Shift-S</string>
+    <string name="test_2_import">X Import....</string>
+    <string name="test_2_Export">X Export....</string>
+    <string name="test_2_Export_shortcut">Ctrl-E</string>
+    <string name="test_2_quit">Quit</string>
+</resources>
