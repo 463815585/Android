@@ -6,4 +6,4 @@
 
 - 实验截图————
 
-![](img\实验一截图.png)
+![](https://github.com/463815585/Android/blob/main/first_app/img/实验一截图.png)
