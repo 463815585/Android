@@ -62,7 +62,7 @@
 
 - ### 实验截图
 
-  ![](img\test_02_01.png)
+  ![](https://github.com/463815585/Android/blob/main/layout_test/img/test_02_01.png)
 
 ## 题目二表格布局页面实现
 
@@ -109,7 +109,7 @@
 
 - ### 实验截图
 
-  ![](img\实验二-二.png)
+  ![](https://github.com/463815585/Android/blob/main/layout_test/img/实验二-二.png)
 
 ## 题目三约束布局实现①
 
@@ -163,7 +163,7 @@
 
 - ### 实验截图
 
-  ![实验二-三](img\实验二-三.png)
+  ![实验二-三](https://github.com/463815585/Android/blob/main/layout_test/img/实验二-三.png)
 
 ## 题目四约束布局实现②
 
@@ -352,4 +352,4 @@
 
 - ### 实验截图
 
-  ![实验二-四](img\实验二-四.png)
+  ![实验二-四](https://github.com/463815585/Android/blob/main/layout_test/img/实验二-四.png)
