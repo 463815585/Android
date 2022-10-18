@@ -6,7 +6,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.EditText;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
@@ -17,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         final AlertDialog dialog = builder.create();
-        View dialogView = View.inflate(this, R.layout.index_linaer, null);
+        View dialogView = View.inflate(this, R.layout.index_linear, null);
         dialog.setView(dialogView);
 
 //        final EditText et_name = dialogView.findViewById(R.id.et_name);
