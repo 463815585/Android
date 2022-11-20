@@ -8,7 +8,7 @@
 
   如图：
 
-  ![](C:\Users\46381\Desktop\midExperiment-notePad\img\毫秒时间戳.jpg)
+  ![](https://github.com/463815585/Android/blob/main/midExperiment-notePad/img/%E6%AF%AB%E7%A7%92%E6%97%B6%E9%97%B4%E6%88%B3.jpg)
 
   代码：
 
@@ -64,7 +64,7 @@
 
   实现后如图：
 
-  ![](C:\Users\46381\Desktop\midExperiment-notePad\img\格式化时间戳.jpg)
+  ![](https://github.com/463815585/Android/blob/main/midExperiment-notePad/img/%E6%A0%BC%E5%BC%8F%E5%8C%96%E6%97%B6%E9%97%B4%E6%88%B3.jpg)
 
 ## 2、增加笔记查询功能
 
@@ -174,7 +174,7 @@
 
   实现截图：
 
-  ![](C:\Users\46381\Desktop\midExperiment-notePad\img\搜索功能.jpg)
+  ![](https://github.com/463815585/Android/blob/main/midExperiment-notePad/img/%E6%90%9C%E7%B4%A2%E5%8A%9F%E8%83%BD.jpg)
 
 ## 3、美化主页面列表显示：
 
@@ -248,11 +248,11 @@
 
 1. 原因：因为在原先的notepad中，新创建一个笔记是没有标题和正文区分的，新创建的笔记输入内容全部用来做为标题和正文共用，只有第二次进入刚刚创建的笔记中才可设置标题。
 
-2. 修改：使其在首次进入便可创建标题和正文，而不是全部内容都都作为标题和正文共用，如图所示：![](C:\Users\46381\Desktop\midExperiment-notePad\img\noteInsert.jpg)
+2. 修改：使其在首次进入便可创建标题和正文，而不是全部内容都都作为标题和正文共用，如图所示：![](https://github.com/463815585/Android/blob/main/midExperiment-notePad/img/noteInsert.jpg)
 
-   ![](C:\Users\46381\Desktop\midExperiment-notePad\img\noteList.jpg)
+   ![](https://github.com/463815585/Android/blob/main/midExperiment-notePad/img/noteList.jpg)
 
-   ![](C:\Users\46381\Desktop\midExperiment-notePad\img\noteEditor.jpg)
+   ![](https://github.com/463815585/Android/blob/main/midExperiment-notePad/img/noteEditor.jpg)
 
 3. 实现思路：首先修改原先的note_editor.xml布局，代码如下：
 
