@@ -8,7 +8,7 @@
 
   如图：
 
-  ![](C:\Users\46381\Desktop\midExperiment-notePad\img\毫秒时间戳.jpg)
+  ![](midExperiment-notePad/img/毫秒时间戳.jpg)
 
   代码：
 
