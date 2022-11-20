@@ -12,7 +12,7 @@
 
   代码：
 
-  noteslist_item.xml在美化功能中查看[美化功能](#3、美化主页面列表显示：)
+  noteslist_item.xml在美化功能中查看[美化功能](#3美化主页面列表显示)
 
   NotesList.java
 
